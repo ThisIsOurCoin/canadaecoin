@@ -1,0 +1,9 @@
+Building Canada eCoin
+
+See doc/readme-qt.rst for instructions on building Canada eCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Canada eCoin.
+
+See doc/build-*.txt for instructions on building canadaecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Canada eCoin.
